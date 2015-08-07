@@ -1,0 +1,33 @@
+p {
+  color: white;
+  }
+  @import url(http://fonts.googleapis.com/css?family=Poiret+One);
+h1 {
+  color: lightgreen;
+  font-family: 'Poiret One', cursive;
+  margin-left: 585px;
+  margin-right: 540px;
+}
+
+  /* id */
+#whatever{
+  color: blue;
+}
+
+/* class */
+.bluetext {
+  color:blue;
+}
+html {
+  background: url("http://cancer.uchicago.edu/images/Community%20Jan%202011/Alex%20MacLean%202005%20campus%20with%20cityscape%20(2).jpg") no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+img {
+  flex-shrink: 3;
+  margin-left: 540px;
+  margin-right: 540px;
+  width: 25%;
+
+}

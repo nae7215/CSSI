@@ -1,0 +1,18 @@
+p {
+
+  color: #CC99FF /* this is a comment*/
+
+}
+
+html{
+
+  background-image: url("http://36.media.tumblr.com/tumblr_me5y0xYmwg1qlm7slo1_500.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+h1 {
+
+  color: #99FFCC
+}
